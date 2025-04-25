@@ -1,0 +1,3646 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.0.1/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeMinGWFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Bruce-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Compaq-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/CrayClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/GNU-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/HP-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/LCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/OrangeC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/SDCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/SunPro-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/TIClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/XL-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/GNU-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.0.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeRCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.0.1/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerSupport.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/4.0.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectCLinker.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"path" : "mbedtls/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakePrintHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPython3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"path" : "mbedtls/scripts/__pycache__/config.cpython-311.pyc"
+		},
+		{
+			"path" : "mbedtls/scripts/__pycache__/framework_scripts_path.cpython-311.pyc"
+		},
+		{
+			"path" : "mbedtls/scripts/abi_check.py"
+		},
+		{
+			"path" : "mbedtls/scripts/basic.requirements.txt"
+		},
+		{
+			"path" : "mbedtls/scripts/bump_version.sh"
+		},
+		{
+			"path" : "mbedtls/scripts/ci.requirements.txt"
+		},
+		{
+			"path" : "mbedtls/scripts/code_size_compare.py"
+		},
+		{
+			"path" : "mbedtls/scripts/common.make"
+		},
+		{
+			"path" : "mbedtls/scripts/config.pl"
+		},
+		{
+			"path" : "mbedtls/scripts/config.py"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_jsons/driver_opaque_schema.json"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_jsons/driver_transparent_schema.json"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_jsons/driverlist.json"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_jsons/mbedtls_test_opaque_driver.json"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_jsons/mbedtls_test_transparent_driver.json"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_jsons/p256_transparent_driver.json"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_templates/OS-template-opaque.jinja"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_templates/OS-template-transparent.jinja"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_templates/psa_crypto_driver_wrappers.h.jinja"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/driver_templates/psa_crypto_driver_wrappers_no_static.c.jinja"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/error.fmt"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/query_config.fmt"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/version_features.fmt"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/vs2017-app-template.vcxproj"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/vs2017-main-template.vcxproj"
+		},
+		{
+			"path" : "mbedtls/scripts/data_files/vs2017-sln-template.sln"
+		},
+		{
+			"path" : "mbedtls/scripts/driver.requirements.txt"
+		},
+		{
+			"path" : "mbedtls/scripts/ecc-heap.sh"
+		},
+		{
+			"path" : "mbedtls/scripts/ecp_comb_table.py"
+		},
+		{
+			"path" : "mbedtls/scripts/footprint.sh"
+		},
+		{
+			"path" : "mbedtls/scripts/framework_scripts_path.py"
+		},
+		{
+			"path" : "mbedtls/scripts/generate_driver_wrappers.py"
+		},
+		{
+			"path" : "mbedtls/scripts/generate_errors.pl"
+		},
+		{
+			"path" : "mbedtls/scripts/generate_features.pl"
+		},
+		{
+			"path" : "mbedtls/scripts/generate_psa_constants.py"
+		},
+		{
+			"path" : "mbedtls/scripts/generate_query_config.pl"
+		},
+		{
+			"path" : "mbedtls/scripts/generate_visualc_files.pl"
+		},
+		{
+			"path" : "mbedtls/scripts/lcov.sh"
+		},
+		{
+			"path" : "mbedtls/scripts/maintainer.requirements.txt"
+		},
+		{
+			"path" : "mbedtls/scripts/make_generated_files.bat"
+		},
+		{
+			"path" : "mbedtls/scripts/massif_max.pl"
+		},
+		{
+			"path" : "mbedtls/scripts/memory.sh"
+		},
+		{
+			"path" : "mbedtls/scripts/min_requirements.py"
+		},
+		{
+			"path" : "mbedtls/scripts/prepare_release.sh"
+		},
+		{
+			"path" : "mbedtls/scripts/project_name.txt"
+		},
+		{
+			"path" : "mbedtls/scripts/tmp_ignore_makefiles.sh"
+		},
+		{
+			"path" : "mbedtls/DartConfiguration.tcl"
+		},
+		{
+			"path" : "mbedtls/framework/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/include/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/aes.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/aria.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/asn1.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/asn1write.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/base64.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/bignum.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/block_cipher.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/build_info.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/camellia.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ccm.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/chacha20.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/chachapoly.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/check_config.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/cipher.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/cmac.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/compat-2.x.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_adjust_legacy_crypto.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_adjust_legacy_from_psa.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_adjust_psa_from_legacy.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_adjust_psa_superset_legacy.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_adjust_ssl.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_adjust_x509.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/config_psa.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/constant_time.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ctr_drbg.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/debug.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/des.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/dhm.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ecdh.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ecdsa.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ecjpake.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ecp.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/entropy.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/error.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/gcm.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/hkdf.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/hmac_drbg.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/lms.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/mbedtls_config.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/md.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/md5.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/memory_buffer_alloc.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/net_sockets.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/nist_kw.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/oid.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/pem.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/pk.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/pkcs12.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/pkcs5.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/pkcs7.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/platform.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/platform_time.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/platform_util.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/poly1305.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/private_access.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/psa_util.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ripemd160.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/rsa.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/sha1.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/sha256.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/sha3.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/sha512.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ssl.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ssl_cache.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ssl_ciphersuites.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ssl_cookie.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/ssl_ticket.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/threading.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/timing.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/version.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/x509.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/x509_crl.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/x509_crt.h"
+		},
+		{
+			"path" : "mbedtls/include/mbedtls/x509_csr.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/build_info.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_adjust_auto_enabled.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_adjust_config_dependencies.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_adjust_config_key_pair_types.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_adjust_config_synonyms.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_builtin_composites.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_builtin_key_derivation.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_builtin_primitives.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_compat.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_config.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_driver_common.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_driver_contexts_composites.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_driver_contexts_key_derivation.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_driver_contexts_primitives.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_extra.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_legacy.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_platform.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_se_driver.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_sizes.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_struct.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_types.h"
+		},
+		{
+			"path" : "mbedtls/include/psa/crypto_values.h"
+		},
+		{
+			"path" : "mbedtls/3rdparty/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/3rdparty/everest/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/3rdparty/p256-m/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/library/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/library/error.c"
+		},
+		{
+			"path" : "mbedtls/library/version_features.c"
+		},
+		{
+			"path" : "mbedtls/library/ssl_debug_helpers_generated.c"
+		},
+		{
+			"path" : "mbedtls/library/psa_crypto_driver_wrappers_no_static.c"
+		},
+		{
+			"path" : "mbedtls/pkgconfig/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/aes/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/cipher/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/hash/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/pkey/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/psa/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/psa/psa_constant_names_generated.c"
+		},
+		{
+			"path" : "mbedtls/programs/random/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/ssl/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "mbedtls/programs/test/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/test/query_config.c"
+		},
+		{
+			"path" : "mbedtls/programs/util/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/programs/x509/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/tests/CMakeLists.txt"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_bignum.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_bignum_core.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_bignum_mod.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_bignum_mod_raw.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_config.mbedtls_boolean.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_config.psa_boolean.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_ecp.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_psa_crypto_generate_key.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_psa_crypto_low_hash.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_psa_crypto_not_supported.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_psa_crypto_op_fail.generated.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_psa_crypto_storage_format.current.data"
+		},
+		{
+			"path" : "mbedtls/tests/suites/test_suite_psa_crypto_storage_format.v0.data"
+		},
+		{
+			"path" : "mbedtls/tests/Descriptions.txt"
+		},
+		{
+			"path" : "mbedtls/tests/compat.sh"
+		},
+		{
+			"path" : "mbedtls/tests/context-info.sh"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/.gitignore"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/Makefile"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/Readme-x509.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_no_authorityKeyId.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_no_issuer.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_no_keyid.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId.conf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_issuer_tag1_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_issuer_tag2_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_keyid_tag_len_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_keyid_tag_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_length_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_sequence_tag_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_sn_len_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_sn_tag_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_tag_len_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/authorityKeyId_subjectKeyId_tag_malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_cid.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_ciphersuite.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_def.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_min_cfg.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_no_alpn.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_no_keep_cert.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_no_mfl.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/cli_no_packing.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/def_b64_ff.bin"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/def_b64_too_big_1.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/def_b64_too_big_2.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/def_b64_too_big_3.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/def_bad_b64.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/empty.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/mfl_1024.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/mtu_10000.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_cid.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_ciphersuite.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_def.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_min_cfg.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_no_alpn.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_no_keep_cert.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_no_mfl.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/srv_no_packing.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/base64/v2.19.1.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_example_multi.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_example_multi_nocn.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_example_wildcard.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_md5.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_md5.csr"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_sha1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_sha224.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_sha384.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_sha512.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cert_v1_with_ext.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli-rsa-sha1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli-rsa-sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli-rsa-sha256.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli-rsa-sha256.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli-rsa.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli-rsa.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli2.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli2.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/cli2.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/clusterfuzz-testcase-minimized-fuzz_x509crt-6666050834661376.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-ec-sha1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-ec-sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-future.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-futureRevocationDate.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-rsa-pss-sha1-badsign.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-rsa-pss-sha1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-rsa-pss-sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-rsa-pss-sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-rsa-pss-sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl-rsa-pss-sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl_cat_ec-rsa.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl_cat_ecfut-rsa.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl_cat_rsa-ec.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl_cat_rsabadpem-ec.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl_expired.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crl_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/crt_cat_rsaexp-ec.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dh.1000.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dh.998.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dh.999.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dh.optlen.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dh.optlen.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dhparams.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/00.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/00.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/01.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/01.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/02.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/02.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/03.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/03.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/04.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/04.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/05.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/05.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/06.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/06.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/07.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/07.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/08.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/08.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/09.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/09.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/10.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/10.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/11.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/11.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/12.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/12.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/13.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/13.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/14.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/14.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/15.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/15.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/16.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/16.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/17.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/17.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/18.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/18.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/19.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/19.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/20.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/20.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/Readme.txt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c00.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c01.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c02.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c03.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c04.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c05.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c06.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c07.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c08.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c09.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c10.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c11.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c12.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c13.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c14.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c15.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c16.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c17.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c18.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c19.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/c20.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/int.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir-maxpath/long.sh"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir1/test-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir2/test-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir2/test-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir3/Readme"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir3/test-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir3/test-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/Readme"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert11.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert12.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert13.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert14.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert21.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert22.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert23.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert31.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert32.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert33.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert34.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert41.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert42.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert43.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert44.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert45.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert51.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert52.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert53.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert54.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert61.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert62.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert63.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert71.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert72.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert73.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert74.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert81.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert82.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert83.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert91.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/dir4/cert92.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_224_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_224_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_224_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_224_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_256_long_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_256_long_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_256_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_256_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_256_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_256_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_384_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_384_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_384_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_384_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_pub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_short_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_521_short_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp256_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp256_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp256_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp256_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp384_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp384_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp384_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp384_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp512_prv.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp512_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp512_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp512_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp512_pub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_bp512_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8.pw.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8.pw.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8nopub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8nopub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8nopubparam.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8nopubparam.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8param.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.pk8param.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.sec1.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.sec1.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.sec1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.sec1.pw.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_prv.specdom.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_pub.comp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_pub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x25519_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x25519_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x25519_pub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x25519_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x448_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x448_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x448_pub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ec_x448_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ecdsa_secp256r1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ecdsa_secp256r1.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ecdsa_secp384r1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ecdsa_secp384r1.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ecdsa_secp521r1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/ecdsa_secp521r1.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/enco-ca-prstr.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/enco-cert-utf8str.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/format_gen.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/format_gen.pub"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/format_pkcs12.fmt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/format_rsa.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/hash_file_1"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/hash_file_2"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/hash_file_3"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/hash_file_4"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/hash_file_5"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/keyUsage.decipherOnly.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/lms_hash-sigs_sha256_m32_h5_lmots_sha256_n32_w8_aux"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/lms_hash-sigs_sha256_m32_h5_lmots_sha256_n32_w8_prv"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/lms_hash-sigs_sha256_m32_h5_lmots_sha256_n32_w8_pub"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/lms_hsslms_sha256_m32_h5_lmots_sha256_n32_w8_prv"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/lms_pyhsslms_sha256_m32_h5_lmots_sha256_n32_w8_prv"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/lms_pyhsslms_sha256_m32_h5_lmots_sha256_n32_w8_pub"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/mpi_16"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/mpi_too_big"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/opensslcnf/server9.crt.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/bitstring-in-dn.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_example_multi.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_example_multi_nocn.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_md5.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_sha1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_sha224.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_sha384.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cert_sha512.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/cli-rsa-sha256-badalg.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-ec-sha1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-ec-sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-ec-sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-ec-sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-ec-sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-idp.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-idpnc.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-malformed-trailing-spaces.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-rsa-pss-sha1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-rsa-pss-sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-rsa-pss-sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-rsa-pss-sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl-rsa-pss-sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_expired.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_md5.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_sha1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/crl_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/keyUsage.decipherOnly.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/multiple_san.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/non-ascii-string-in-issuer.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/rsa_multiple_san_uri.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/rsa_single_san_uri.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1-ms.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.cert_type.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.ext_ku.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.key_usage.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.commas.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.md5"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.sha1"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.sha224"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.sha384"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1.req.sha512"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1_pathlen_int_max-1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server1_pathlen_int_max.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server2.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server3.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server4.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-directoryname-seq-malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-directoryname.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-fan.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-non-compliant.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-nonprintable_othername.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-othername.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-second-directoryname-oid-malformed.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-sha1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-sha224.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-sha384.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-sha512.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-two-directorynames.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5-unsupported_othername.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5.req.sha1"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5.req.sha224"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5.req.sha384"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server5.req.sha512"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server7_all_space.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server7_int-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server7_pem_space.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server7_trailing_space.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9-sha224.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9-sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9-sha384.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9-sha512.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9.req.sha1"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9.req.sha224"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9.req.sha384"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/server9.req.sha512"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-any_policy.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-any_policy_ec.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-any_policy_with_qualifier.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-any_policy_with_qualifier_ec.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-multi_policy.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-multi_policy_ec.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-unsupported_policy.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca-unsupported_policy_ec.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test-ca.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_cert_rfc822name.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_extension_request.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_extension_request_sequence_len1.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_extension_request_sequence_len2.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_extension_request_sequence_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_extension_request_set_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_id_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_len1.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_len2.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_attributes_sequence_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_duplicated_extension.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_data_len1.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_data_len2.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_data_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_id_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_key_usage_bitstream_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_ns_cert_bitstream_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_subject_alt_name_sequence_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extension_type_oid.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_all_malformed_extensions_sequence_tag.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_keyUsage.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_nsCertType.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/parse_input/test_csr_v3_subjectAltName.csr.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/passwd.psk"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-expired.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-expired.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-expired.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-1.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-1.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-1.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-2.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-2.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-2.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-3.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-3.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7-rsa-sha256-3.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data.bin"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_1.bin"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_3_signed.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_cert_encrypted.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_cert_signed_sha1.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_cert_signed_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_cert_signed_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_cert_signed_v2.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_cert_signeddata_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_multiple_certs_signed.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_multiple_signed.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_no_signers.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_rsa_expired.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badcert.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner1_badsize.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner1_badtag.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner1_fuzzbad.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner2_badsize.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner2_badtag.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_signed_badsigner2_fuzzbad.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_with_signature.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_data_without_cert_signed.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_signerInfo_1_serial_invalid_tag_after_long_name.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_signerInfo_2_invalid_tag.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_signerInfo_issuer_invalid_size.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_signerInfo_serial_invalid_size.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_zerolendata.bin"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/pkcs7_zerolendata_detached.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/print_c.pl"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa4096_prv.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa4096_prv.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa4096_pub.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa4096_pub.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa512.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa521.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa522.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa528.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_multiple_san_uri.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_aes128.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_aes192.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_aes256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_1024_des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_aes128.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_aes192.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_aes256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_public.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_2048_public.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_aes128.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_aes192.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_aes256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_4096_des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_768_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_768_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_769_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_769_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_770_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_770_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_776_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_776_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_784_clear.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs1_784_clear.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_1024_public.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_2048_public.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_2048_public.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_1024_2des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_1024_2des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_1024_3des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_1024_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_2048_2des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_2048_2des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_2048_3des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_2048_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_4096_2des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_4096_2des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_4096_3des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbe_sha1_4096_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha224.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_3des_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha224.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_1024_des_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha224.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_3des_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_aes128cbc_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_aes128cbc_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_aes192cbc_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_aes192cbc_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_aes256cbc_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_aes256cbc_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha224.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_2048_des_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha224.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_3des_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha224.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha224.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha256.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha256.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha384.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha384.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha512.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_pkcs8_pbes2_pbkdf2_4096_des_sha512.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_single_san_uri.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/rsa_single_san_uri.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1-nospace.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1-v1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.80serial.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.allSubjectAltNames.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.asciichars.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.ca.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.ca_noauthid.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.cert_type.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.cert_type.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.cert_type_noauthid.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.commas.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.csr"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.hashsymbol.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key_ext_usage.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key_ext_usages.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key_usage.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key_usage.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.key_usage_noauthid.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.long_serial.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.long_serial_FF.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.noauthid.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.pubkey"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.pubkey.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.cert_type"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.cert_type_empty"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.key_usage"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.key_usage_empty"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.ku-ct"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.md5"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha1"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha224"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha256.conf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha256.ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha384"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.req.sha512"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.spaces.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1.v1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10-badsign.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10-bs_int3.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10_int3-bs.pem"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10_int3_int-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10_int3_int-ca2_ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server10_int3_spurious_int-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1_ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server1_csr.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-badsign.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-sha256.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-sha256.ku-ds.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-sha256.ku-ds_ke.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-sha256.ku-ka.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-sha256.ku-ke.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-v1-chain.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2-v1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.key.enc"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.ku-ds.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.ku-ds_ke.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.ku-ka.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server2.ku-ke.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server3.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server3.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server4.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server4.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-badsign.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der0.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der1a.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der1b.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der4.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der8.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-der9.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-expired.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-future.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-selfsigned.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-sha1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-sha224.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-sha384.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-sha512.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-ss-expired.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-ss-forgeca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-tricky-ip-san-malformed-len.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5-tricky-ip-san.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.eku-cli.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.eku-cs.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.eku-cs_any.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.eku-srv.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.eku-srv_cli.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.key.enc"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.ku-ds.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.ku-ka.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.ku-ke.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server5.req.ku.sha1"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server6-ss-child.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server6-ss-child.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server6.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server6.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7-badsign.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7-expired.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7-future.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7_int-ca-exp.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7_int-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7_int-ca_ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server7_spurious_int-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server8.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server8.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server8_int-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-bad-mgfhash.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-bad-saltlen.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-badsign.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-defaults.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-sha224.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-sha384.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-sha512.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9-with-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/server9.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/simplepass.psk"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-alt-good.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-alt.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-alt.csr"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-alt.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-good-alt.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-sha1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-sha1.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-sha256.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-sha256.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca-v1.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.req_ec.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.server1.db"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.server1.future-crl.db"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.server1.future-crl.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.server1.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca.server1.test_serial.opensslconf"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2-expired.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.crt.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.key.der"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.key.enc"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-crl.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-crl.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-crt.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-crt.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-crt_crl.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-crt_crl.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-ds.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.ku-ds.crt.openssl.v3_ext"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2.req.sha256"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2_cat-future-invalid.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2_cat-future-present.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2_cat-past-invalid.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2_cat-past-present.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2_cat-present-future.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca2_cat-present-past.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca_cat12.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca_cat21.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca_printable.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca_unenc.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca_uppercase.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-ca_utf8.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca-exp.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca2.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca2.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca3-badsign.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca3.crt"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test-int-ca3.key"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/test_certs.h.jinja2"
+		},
+		{
+			"path" : "mbedtls/framework/data_files/tls13_early_data.txt"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/all.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/analyze_outcomes.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/audit-validity-dates.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/basic-build-test.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/check-generated-files.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-basic-checks.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-build-system.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-compiler.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-compliance.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-configuration-crypto.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-configuration-platform.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-configuration-tls.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-configuration-x509.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-configuration.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-platform.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/components-sanitizers.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/depends.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/gen_ctr_drbg.pl"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/gen_gcm_decrypt.pl"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/gen_gcm_encrypt.pl"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/gen_pkcs1_v21_sign_verify.pl"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/generate-afl-tests.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/generate_server9_bad_saltlen.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/list-identifiers.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/list_internal_identifiers.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/psa_collect_statuses.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/run-metatests.sh"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/run-test-suites.pl"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/run_demos.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/scripts_path.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/set_psa_test_dependencies.py"
+		},
+		{
+			"path" : "mbedtls/tests/scripts/test_config_script.py"
+		},
+		{
+			"path" : "mbedtls/tests/ssl-opt.sh"
+		},
+		{
+			"path" : "mbedtls/tests/opt-testcases/handshake-generated.sh"
+		},
+		{
+			"path" : "mbedtls/tests/opt-testcases/sample.sh"
+		},
+		{
+			"path" : "mbedtls/tests/opt-testcases/tls13-compat.sh"
+		},
+		{
+			"path" : "mbedtls/tests/opt-testcases/tls13-kex-modes.sh"
+		},
+		{
+			"path" : "mbedtls/tests/opt-testcases/tls13-misc.sh"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/tomsk/OneDrive/Dokumente/Software/gnutls_mbedtls_unittest/build",
+		"source" : "C:/Users/tomsk/OneDrive/Dokumente/Software/gnutls_mbedtls_unittest"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

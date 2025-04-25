@@ -1,0 +1,704 @@
+Config: PSA_WANT_ALG_CBC_NO_PADDING
+depends_on:0:1
+0
+
+Config: !PSA_WANT_ALG_CBC_NO_PADDING
+depends_on:2:1
+0
+
+Config: PSA_WANT_ALG_CBC_PKCS7
+depends_on:3:1
+0
+
+Config: !PSA_WANT_ALG_CBC_PKCS7
+depends_on:4:1
+0
+
+Config: PSA_WANT_ALG_CCM
+depends_on:5:1
+0
+
+Config: !PSA_WANT_ALG_CCM
+depends_on:6:1
+0
+
+Config: PSA_WANT_ALG_CCM_STAR_NO_TAG
+depends_on:7:1
+0
+
+Config: !PSA_WANT_ALG_CCM_STAR_NO_TAG
+depends_on:8:1
+0
+
+Config: PSA_WANT_ALG_CFB
+depends_on:9:1
+0
+
+Config: !PSA_WANT_ALG_CFB
+depends_on:10:1
+0
+
+Config: PSA_WANT_ALG_CHACHA20_POLY1305
+depends_on:11:1
+0
+
+Config: !PSA_WANT_ALG_CHACHA20_POLY1305
+depends_on:12:1
+0
+
+Config: PSA_WANT_ALG_CMAC
+depends_on:13:1
+0
+
+Config: !PSA_WANT_ALG_CMAC
+depends_on:14:1
+0
+
+Config: PSA_WANT_ALG_CTR
+depends_on:15:1
+0
+
+Config: !PSA_WANT_ALG_CTR
+depends_on:16:1
+0
+
+Config: PSA_WANT_ALG_DETERMINISTIC_ECDSA
+depends_on:17:1
+0
+
+Config: !PSA_WANT_ALG_DETERMINISTIC_ECDSA
+depends_on:18:1
+0
+
+Config: PSA_WANT_ALG_ECB_NO_PADDING
+depends_on:19:1
+0
+
+Config: !PSA_WANT_ALG_ECB_NO_PADDING
+depends_on:20:1
+0
+
+Config: PSA_WANT_ALG_ECDH
+depends_on:21:1
+0
+
+Config: !PSA_WANT_ALG_ECDH
+depends_on:22:1
+0
+
+Config: PSA_WANT_ALG_ECDSA
+depends_on:23:1
+0
+
+Config: !PSA_WANT_ALG_ECDSA
+depends_on:24:1
+0
+
+Config: PSA_WANT_ALG_FFDH
+depends_on:25:1
+0
+
+Config: !PSA_WANT_ALG_FFDH
+depends_on:26:1
+0
+
+Config: PSA_WANT_ALG_GCM
+depends_on:27:1
+0
+
+Config: !PSA_WANT_ALG_GCM
+depends_on:28:1
+0
+
+Config: PSA_WANT_ALG_HKDF
+depends_on:29:1
+0
+
+Config: !PSA_WANT_ALG_HKDF
+depends_on:30:1
+0
+
+Config: PSA_WANT_ALG_HKDF_EXPAND
+depends_on:31:1
+0
+
+Config: !PSA_WANT_ALG_HKDF_EXPAND
+depends_on:32:1
+0
+
+Config: PSA_WANT_ALG_HKDF_EXTRACT
+depends_on:33:1
+0
+
+Config: !PSA_WANT_ALG_HKDF_EXTRACT
+depends_on:34:1
+0
+
+Config: PSA_WANT_ALG_HMAC
+depends_on:35:1
+0
+
+Config: !PSA_WANT_ALG_HMAC
+depends_on:36:1
+0
+
+Config: PSA_WANT_ALG_JPAKE
+depends_on:37:1
+0
+
+Config: !PSA_WANT_ALG_JPAKE
+depends_on:38:1
+0
+
+Config: PSA_WANT_ALG_MD5
+depends_on:39:1
+0
+
+Config: !PSA_WANT_ALG_MD5
+depends_on:40:1
+0
+
+Config: PSA_WANT_ALG_OFB
+depends_on:41:1
+0
+
+Config: !PSA_WANT_ALG_OFB
+depends_on:42:1
+0
+
+Config: PSA_WANT_ALG_PBKDF2_AES_CMAC_PRF_128
+depends_on:43:1
+0
+
+Config: !PSA_WANT_ALG_PBKDF2_AES_CMAC_PRF_128
+depends_on:44:1
+0
+
+Config: PSA_WANT_ALG_PBKDF2_HMAC
+depends_on:45:1
+0
+
+Config: !PSA_WANT_ALG_PBKDF2_HMAC
+depends_on:46:1
+0
+
+Config: PSA_WANT_ALG_RIPEMD160
+depends_on:47:1
+0
+
+Config: !PSA_WANT_ALG_RIPEMD160
+depends_on:48:1
+0
+
+Config: PSA_WANT_ALG_RSA_OAEP
+depends_on:49:1
+0
+
+Config: !PSA_WANT_ALG_RSA_OAEP
+depends_on:50:1
+0
+
+Config: PSA_WANT_ALG_RSA_PKCS1V15_CRYPT
+depends_on:51:1
+0
+
+Config: !PSA_WANT_ALG_RSA_PKCS1V15_CRYPT
+depends_on:52:1
+0
+
+Config: PSA_WANT_ALG_RSA_PKCS1V15_SIGN
+depends_on:53:1
+0
+
+Config: !PSA_WANT_ALG_RSA_PKCS1V15_SIGN
+depends_on:54:1
+0
+
+Config: PSA_WANT_ALG_RSA_PSS
+depends_on:55:1
+0
+
+Config: !PSA_WANT_ALG_RSA_PSS
+depends_on:56:1
+0
+
+Config: PSA_WANT_ALG_SHA3_224
+depends_on:57:1
+0
+
+Config: !PSA_WANT_ALG_SHA3_224
+depends_on:58:1
+0
+
+Config: PSA_WANT_ALG_SHA3_256
+depends_on:59:1
+0
+
+Config: !PSA_WANT_ALG_SHA3_256
+depends_on:60:1
+0
+
+Config: PSA_WANT_ALG_SHA3_384
+depends_on:61:1
+0
+
+Config: !PSA_WANT_ALG_SHA3_384
+depends_on:62:1
+0
+
+Config: PSA_WANT_ALG_SHA3_512
+depends_on:63:1
+0
+
+Config: !PSA_WANT_ALG_SHA3_512
+depends_on:64:1
+0
+
+Config: PSA_WANT_ALG_SHA_1
+depends_on:65:1
+0
+
+Config: !PSA_WANT_ALG_SHA_1
+depends_on:66:1
+0
+
+Config: PSA_WANT_ALG_SHA_224
+depends_on:67:1
+0
+
+Config: !PSA_WANT_ALG_SHA_224
+depends_on:68:1
+0
+
+Config: PSA_WANT_ALG_SHA_256
+depends_on:69:1
+0
+
+Config: !PSA_WANT_ALG_SHA_256
+depends_on:70:1
+0
+
+Config: PSA_WANT_ALG_SHA_384
+depends_on:71:1
+0
+
+Config: !PSA_WANT_ALG_SHA_384
+depends_on:72:1
+0
+
+Config: PSA_WANT_ALG_SHA_512
+depends_on:73:1
+0
+
+Config: !PSA_WANT_ALG_SHA_512
+depends_on:74:1
+0
+
+Config: PSA_WANT_ALG_STREAM_CIPHER
+depends_on:75:1
+0
+
+Config: !PSA_WANT_ALG_STREAM_CIPHER
+depends_on:76:1
+0
+
+Config: PSA_WANT_ALG_TLS12_ECJPAKE_TO_PMS
+depends_on:77:1
+0
+
+Config: !PSA_WANT_ALG_TLS12_ECJPAKE_TO_PMS
+depends_on:78:1
+0
+
+Config: PSA_WANT_ALG_TLS12_PRF
+depends_on:79:1
+0
+
+Config: !PSA_WANT_ALG_TLS12_PRF
+depends_on:80:1
+0
+
+Config: PSA_WANT_ALG_TLS12_PSK_TO_MS
+depends_on:81:1
+0
+
+Config: !PSA_WANT_ALG_TLS12_PSK_TO_MS
+depends_on:82:1
+0
+
+Config: PSA_WANT_DH_RFC7919_2048
+depends_on:83:1
+0
+
+Config: !PSA_WANT_DH_RFC7919_2048
+depends_on:84:1
+0
+
+Config: PSA_WANT_DH_RFC7919_3072
+depends_on:85:1
+0
+
+Config: !PSA_WANT_DH_RFC7919_3072
+depends_on:86:1
+0
+
+Config: PSA_WANT_DH_RFC7919_4096
+depends_on:87:1
+0
+
+Config: !PSA_WANT_DH_RFC7919_4096
+depends_on:88:1
+0
+
+Config: PSA_WANT_DH_RFC7919_6144
+depends_on:89:1
+0
+
+Config: !PSA_WANT_DH_RFC7919_6144
+depends_on:90:1
+0
+
+Config: PSA_WANT_DH_RFC7919_8192
+depends_on:91:1
+0
+
+Config: !PSA_WANT_DH_RFC7919_8192
+depends_on:92:1
+0
+
+Config: PSA_WANT_ECC_BRAINPOOL_P_R1_256
+depends_on:93:1
+0
+
+Config: !PSA_WANT_ECC_BRAINPOOL_P_R1_256
+depends_on:94:1
+0
+
+Config: PSA_WANT_ECC_BRAINPOOL_P_R1_384
+depends_on:95:1
+0
+
+Config: !PSA_WANT_ECC_BRAINPOOL_P_R1_384
+depends_on:96:1
+0
+
+Config: PSA_WANT_ECC_BRAINPOOL_P_R1_512
+depends_on:97:1
+0
+
+Config: !PSA_WANT_ECC_BRAINPOOL_P_R1_512
+depends_on:98:1
+0
+
+Config: PSA_WANT_ECC_MONTGOMERY_255
+depends_on:99:1
+0
+
+Config: !PSA_WANT_ECC_MONTGOMERY_255
+depends_on:100:1
+0
+
+Config: PSA_WANT_ECC_MONTGOMERY_448
+depends_on:101:1
+0
+
+Config: !PSA_WANT_ECC_MONTGOMERY_448
+depends_on:102:1
+0
+
+Config: PSA_WANT_ECC_SECP_K1_192
+depends_on:103:1
+0
+
+Config: !PSA_WANT_ECC_SECP_K1_192
+depends_on:104:1
+0
+
+Config: PSA_WANT_ECC_SECP_K1_256
+depends_on:105:1
+0
+
+Config: !PSA_WANT_ECC_SECP_K1_256
+depends_on:106:1
+0
+
+Config: PSA_WANT_ECC_SECP_R1_192
+depends_on:107:1
+0
+
+Config: !PSA_WANT_ECC_SECP_R1_192
+depends_on:108:1
+0
+
+Config: PSA_WANT_ECC_SECP_R1_224
+depends_on:109:1
+0
+
+Config: !PSA_WANT_ECC_SECP_R1_224
+depends_on:110:1
+0
+
+Config: PSA_WANT_ECC_SECP_R1_256
+depends_on:111:1
+0
+
+Config: !PSA_WANT_ECC_SECP_R1_256
+depends_on:112:1
+0
+
+Config: PSA_WANT_ECC_SECP_R1_384
+depends_on:113:1
+0
+
+Config: !PSA_WANT_ECC_SECP_R1_384
+depends_on:114:1
+0
+
+Config: PSA_WANT_ECC_SECP_R1_521
+depends_on:115:1
+0
+
+Config: !PSA_WANT_ECC_SECP_R1_521
+depends_on:116:1
+0
+
+Config: PSA_WANT_KEY_TYPE_AES
+depends_on:117:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_AES
+depends_on:118:1
+0
+
+Config: PSA_WANT_KEY_TYPE_ARIA
+depends_on:119:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_ARIA
+depends_on:120:1
+0
+
+Config: PSA_WANT_KEY_TYPE_CAMELLIA
+depends_on:121:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_CAMELLIA
+depends_on:122:1
+0
+
+Config: PSA_WANT_KEY_TYPE_CHACHA20
+depends_on:123:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_CHACHA20
+depends_on:124:1
+0
+
+Config: PSA_WANT_KEY_TYPE_DERIVE
+depends_on:125:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_DERIVE
+depends_on:126:1
+0
+
+Config: PSA_WANT_KEY_TYPE_DES
+depends_on:127:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_DES
+depends_on:128:1
+0
+
+Config: PSA_WANT_KEY_TYPE_DH_KEY_PAIR_BASIC
+depends_on:129:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_DH_KEY_PAIR_BASIC
+depends_on:130:1
+0
+
+Config: PSA_WANT_KEY_TYPE_DH_KEY_PAIR_DERIVE
+depends_on:131:1:129
+0
+
+Config: !PSA_WANT_KEY_TYPE_DH_KEY_PAIR_DERIVE
+depends_on:132:1:129
+0
+
+Config: PSA_WANT_KEY_TYPE_DH_KEY_PAIR_EXPORT
+depends_on:133:1:129
+0
+
+Config: !PSA_WANT_KEY_TYPE_DH_KEY_PAIR_EXPORT
+depends_on:134:1:129
+0
+
+Config: PSA_WANT_KEY_TYPE_DH_KEY_PAIR_GENERATE
+depends_on:135:1:129
+0
+
+Config: !PSA_WANT_KEY_TYPE_DH_KEY_PAIR_GENERATE
+depends_on:136:1:129
+0
+
+Config: PSA_WANT_KEY_TYPE_DH_KEY_PAIR_IMPORT
+depends_on:137:1:129
+0
+
+Config: !PSA_WANT_KEY_TYPE_DH_KEY_PAIR_IMPORT
+depends_on:138:1:129
+0
+
+Config: PSA_WANT_KEY_TYPE_DH_PUBLIC_KEY
+depends_on:139:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_DH_PUBLIC_KEY
+depends_on:140:1
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_KEY_PAIR
+depends_on:141:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_KEY_PAIR
+depends_on:142:1
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_BASIC
+depends_on:143:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_BASIC
+depends_on:144:1
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_DERIVE
+depends_on:145:1:143
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_DERIVE
+depends_on:146:1:143
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_EXPORT
+depends_on:147:1:143
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_EXPORT
+depends_on:148:1:143
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_GENERATE
+depends_on:149:1:143
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_GENERATE
+depends_on:150:1:143
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_IMPORT
+depends_on:151:1:143
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_KEY_PAIR_IMPORT
+depends_on:152:1:143
+0
+
+Config: PSA_WANT_KEY_TYPE_ECC_PUBLIC_KEY
+depends_on:153:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_ECC_PUBLIC_KEY
+depends_on:154:1
+0
+
+Config: PSA_WANT_KEY_TYPE_HMAC
+depends_on:155:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_HMAC
+depends_on:156:1
+0
+
+Config: PSA_WANT_KEY_TYPE_PASSWORD
+depends_on:157:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_PASSWORD
+depends_on:158:1
+0
+
+Config: PSA_WANT_KEY_TYPE_PASSWORD_HASH
+depends_on:159:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_PASSWORD_HASH
+depends_on:160:1
+0
+
+Config: PSA_WANT_KEY_TYPE_RAW_DATA
+depends_on:161:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_RAW_DATA
+depends_on:162:1
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_KEY_PAIR
+depends_on:163:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_KEY_PAIR
+depends_on:164:1
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_BASIC
+depends_on:165:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_BASIC
+depends_on:166:1
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_DERIVE
+depends_on:167:1:165
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_DERIVE
+depends_on:168:1:165
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_EXPORT
+depends_on:169:1:165
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_EXPORT
+depends_on:170:1:165
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_GENERATE
+depends_on:171:1:165
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_GENERATE
+depends_on:172:1:165
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_IMPORT
+depends_on:173:1:165
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_KEY_PAIR_IMPORT
+depends_on:174:1:165
+0
+
+Config: PSA_WANT_KEY_TYPE_RSA_PUBLIC_KEY
+depends_on:175:1
+0
+
+Config: !PSA_WANT_KEY_TYPE_RSA_PUBLIC_KEY
+depends_on:176:1
+0
+

@@ -1,0 +1,194 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"mbedtls/programs/test/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/metatest.exe"
+			],
+			"targetId" : "metatest::@e4d76d16a4d938422803",
+			"targetIndex" : 35,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "metatest::@e4d76d16a4d938422803",
+				"index" : 35
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/query_included_headers.exe"
+			],
+			"targetId" : "query_included_headers::@e4d76d16a4d938422803",
+			"targetIndex" : 48,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "query_included_headers::@e4d76d16a4d938422803",
+				"index" : 48
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/selftest.exe"
+			],
+			"targetId" : "selftest::@e4d76d16a4d938422803",
+			"targetIndex" : 57,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "selftest::@e4d76d16a4d938422803",
+				"index" : 57
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/udp_proxy.exe"
+			],
+			"targetId" : "udp_proxy::@e4d76d16a4d938422803",
+			"targetIndex" : 205,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "udp_proxy::@e4d76d16a4d938422803",
+				"index" : 205
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/benchmark.exe"
+			],
+			"targetId" : "benchmark::@e4d76d16a4d938422803",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "benchmark::@e4d76d16a4d938422803",
+				"index" : 2
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/query_compile_time_config.exe"
+			],
+			"targetId" : "query_compile_time_config::@e4d76d16a4d938422803",
+			"targetIndex" : 47,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "query_compile_time_config::@e4d76d16a4d938422803",
+				"index" : 47
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"mbedtls/programs/test/zeroize.exe"
+			],
+			"targetId" : "zeroize::@e4d76d16a4d938422803",
+			"targetIndex" : 206,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "zeroize::@e4d76d16a4d938422803",
+				"index" : 206
+			},
+			"destination" : "bin",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "mbedtls/programs/test",
+		"source" : "mbedtls/programs/test"
+	}
+}

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\test_suite_psa_crypto_util.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\test_suite_psa_crypto_util.dir/objects.a @CMakeFiles\test_suite_psa_crypto_util.dir\objects1.rsp
+C:\msys64\mingw64\bin\gcc.exe  -Wall -Wextra -Wwrite-strings -Wmissing-prototypes -Wno-error -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -O0 -g3 -Wl,--whole-archive CMakeFiles\test_suite_psa_crypto_util.dir/objects.a -Wl,--no-whole-archive -o test_suite_psa_crypto_util.exe -Wl,--out-implib,libtest_suite_psa_crypto_util.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_suite_psa_crypto_util.dir\linkLibs.rsp

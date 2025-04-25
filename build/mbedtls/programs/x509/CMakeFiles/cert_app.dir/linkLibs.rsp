@@ -1,0 +1,1 @@
+ ../../library/libmbedx509.a ../../library/libmbedtls.a ../../library/libmbedx509.a ../../library/libmbedcrypto.a ../../3rdparty/everest/libeverest.a "../../3rdparty/p256-m/libp256m.a" -lws2_32 -lbcrypt -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

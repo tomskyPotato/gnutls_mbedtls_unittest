@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(TLSClient C)
+add_subdirectory(mbedtls)
+add_executable(tls_client tls_client.c)
+target_link_libraries(tls_client mbedtls mbedcrypto mbedx509 ws2_32)
+target_include_directories(tls_client PUBLIC "${CMAKE_SOURCE_DIR}/mbedtls/include")
