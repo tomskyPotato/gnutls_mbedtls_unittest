@@ -1,0 +1,5 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_C_COMPILER": "${workspaceFolder}/mingw64/bin/gcc.exe"
+    }
+}
