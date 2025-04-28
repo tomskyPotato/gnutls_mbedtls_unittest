@@ -1,3 +1,3 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ssl_client1.dir/objects.a
+C:\Users\tomsk\OneDrive\Dokumente\Software\gnutls_mbedtls_unittest\CMake\bin\cmake.exe -E rm -f CMakeFiles\ssl_client1.dir/objects.a
 C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\ssl_client1.dir/objects.a @CMakeFiles\ssl_client1.dir\objects1.rsp
 C:\msys64\mingw64\bin\gcc.exe  -Wall -Wextra -Wwrite-strings -Wmissing-prototypes -Wno-error -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -O0 -g3 -Wl,--whole-archive CMakeFiles\ssl_client1.dir/objects.a -Wl,--no-whole-archive -o ssl_client1.exe -Wl,--out-implib,libssl_client1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ssl_client1.dir\linkLibs.rsp

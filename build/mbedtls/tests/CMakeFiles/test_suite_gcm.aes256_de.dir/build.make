@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\CMake\bin\cmake.exe"
+CMAKE_COMMAND = C:\Users\tomsk\OneDrive\Dokumente\Software\gnutls_mbedtls_unittest\CMake\bin\cmake.exe
 
 # The command to remove a file.
-RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
+RM = C:\Users\tomsk\OneDrive\Dokumente\Software\gnutls_mbedtls_unittest\CMake\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =

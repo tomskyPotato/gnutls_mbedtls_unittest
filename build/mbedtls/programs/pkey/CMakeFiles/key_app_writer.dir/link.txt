@@ -1,3 +1,3 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\key_app_writer.dir/objects.a
+C:\Users\tomsk\OneDrive\Dokumente\Software\gnutls_mbedtls_unittest\CMake\bin\cmake.exe -E rm -f CMakeFiles\key_app_writer.dir/objects.a
 C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\key_app_writer.dir/objects.a @CMakeFiles\key_app_writer.dir\objects1.rsp
 C:\msys64\mingw64\bin\gcc.exe  -Wall -Wextra -Wwrite-strings -Wmissing-prototypes -Wno-error -Wformat=2 -Wno-format-nonliteral -Wvla -Wlogical-op -Wshadow -Wformat-signedness -Wformat-overflow=2 -Wformat-truncation -O0 -g3 -Wl,--whole-archive CMakeFiles\key_app_writer.dir/objects.a -Wl,--no-whole-archive -o key_app_writer.exe -Wl,--out-implib,libkey_app_writer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\key_app_writer.dir\linkLibs.rsp
